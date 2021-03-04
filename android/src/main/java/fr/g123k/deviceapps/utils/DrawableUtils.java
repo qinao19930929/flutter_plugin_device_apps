@@ -3,6 +3,7 @@ package fr.g123k.deviceapps.utils;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.drawable.Drawable;
+import android.graphics.drawable.BitmapDrawable;
 
 public class DrawableUtils {
 
